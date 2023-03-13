@@ -1,0 +1,88 @@
+#style-switcher h2 a { background: #2a80b9 none repeat scroll 0 0 }
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>.active>a:focus {
+    color: #2a80b9 !important;
+    background-color: transparent;
+}
+.navbar-default .navbar-nav>.open>a,
+.navbar-default .navbar-nav>.open>a:hover,
+.navbar-default .navbar-nav>.open>a:focus {
+    color: #2a80b9 !important;
+    background-color: transparent;
+}
+
+.menu-top li a:hover { color: #2a80b9!important }
+
+.navbar-default.menu-shrink li a:hover { color: #2a80b9 !important }
+.navbar-default .navbar-toggle .icon-bar { background-color: #2a80b9 }
+
+
+.single_about:hover i{
+background: #2a80b9 none repeat scroll 0 0;
+border: 1px solid #2a80b9;
+}
+.single_about i{color: #2a80b9;}
+
+
+.single_feature_btn_light:hover,
+.single_feature_btn_light:focus {background: #2a80b9;}
+
+.single_feature:hover i{background: #2a80b9;}
+
+[data-carousel-3d] [data-prev-button]:hover:before, [data-carousel-3d] [data-next-button]:hover:before {
+    background:#2a80b9;color: #fff;
+}
+.screenshots-blue [data-carousel-3d] [data-prev-button]:hover:before, .screenshots-blue [data-carousel-3d] [data-next-button]:hover:before {
+background:#2a80b9;color: #fff;
+}
+
+.play-video {background-color: #2a80b9;}
+
+.single_more_feature:hover .single_icon span {color: #2a80b9;}
+
+.single_more_feature:hover .single_text h3 {color: #2a80b9;}
+
+.pricing-title p{background: #2a80b9 none repeat scroll 0 0;}
+
+.pricing_btn a{background: #2a80b9 none repeat scroll 0 0;border: 1px solid #2a80b9;}
+
+.carousel-indicators li {
+    border: 1px solid #2a80b9;
+    background: #2a80b9;
+}
+.carousel-indicators .active {background-color: #2a80b9;}
+
+.download {background:#2a80b9 none repeat scroll 0 0;}
+
+.signup_form input:focus{border:1px solid #2a80b9;}
+
+
+.signup_form button:hover,
+.signup_form button:focus {background: #2a80b9;}
+
+.contact input:focus {
+border: 1px solid #2a80b9;
+    box-shadow: none;
+    outline: 0 none;
+}
+.contact textarea:focus {
+border: 1px solid #2a80b9;
+    box-shadow: none;
+    outline: 0 none;
+}
+
+.btn-contact-bg:hover,
+.btn-contact-bg:focus {
+    background: #2a80b9;
+    color: #fff;
+}
+.footer_social ul li a:hover { color: #2a80b9 }
+
+
+
+
+
+
+

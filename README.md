@@ -1,0 +1,2 @@
+# susuai
+ SusuAI savings planner
